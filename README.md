@@ -1,2 +1,2 @@
-# FDC
-Description and documents of FDC
+# CDC
+Description and documents of connectivity distance corfficient (CDC).
