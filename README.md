@@ -1,2 +1,2 @@
 # CDC
-Description and documents of connectivity distance corfficient (CDC).
+Description and documents of connectivity distance coefficient (CDC).
